@@ -19,7 +19,7 @@ This repository contains a basic implementation of a neural network in C. The ne
  - Simply enter `make`. No easier than that.
 ## Usage
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/dimaaac/Basic-Neural-Network/blob/main/misc/Screenshot_20240113_113715.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/dimaaac/Basic-Neural-Network/blob/main/misc/preview.png">
 </picture>
 
 To use the neural network, you can modify the input values, weights, and biases in the `main` function. The forward pass is performed by the `forward` function, and the output is displayed.
