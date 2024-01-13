@@ -21,3 +21,4 @@ forward(input, weights_ih, bias_h, weights_ho, bias_o, output);
 printf("Output: %lf\n", output[0]);
 ```
 
+> *also, dont send a dm to me explaining how shit this code is and how it looks. idc i spend a little bit too much time on that, but coding in vanilla C and using no libraries isnt that easy. yes, i know that this neural network sucks. use this as a learning resource nor as a main base of your potential future application. and dont ask me why i put a license.*
