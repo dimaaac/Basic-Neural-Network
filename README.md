@@ -1,5 +1,5 @@
 # BNN
-A Basic neural network
+A Basic Neural Network
 ## Overview
 
 This repository contains a basic implementation of a neural network in C. The neural network is a feedforward network with a single hidden layer using a sigmoid activation function. This example is intended for educational purposes and serves as a minimal illustration of a neural network structure.
